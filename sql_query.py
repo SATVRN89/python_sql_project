@@ -15,10 +15,10 @@ import plotly.express as px
 #%%
 # Database credentials
 username = 'postgres'
-password = 'ZcXv5267'
+password = '*******'
 host = 'localhost'
 port = '5432'
-database = 'big_ps_task'
+database = '********'
 
 # Connection string
 connection_string = f'postgresql://{username}:{password}@{host}:{port}/{database}'
